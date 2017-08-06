@@ -8,7 +8,7 @@ Usage
 linux:python <path_to_login.py>    
 e.g. python ~/login.py   
 Student ID:
-20163010110    
+20163010888    
 passwd:
 123456   
 success!
