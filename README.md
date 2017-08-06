@@ -11,12 +11,12 @@ Student ID:
 20163010888    
 passwd:
 123456   
-success!
+success!        
 windows:安装python后双击运行       
-`personal sit`   
+`personal sit`      
 更改`19-20`行代码如下    
 ```python
     "DDDDD":"your student ID",    
     "upass":"your passwd",   
 ```
-####hope you enjoy it
+#### hope you enjoy it
