@@ -10,7 +10,7 @@ China Agriculture University auto Login in system
 >>Student ID:
 >>20163010110
 >>>passwd:
->>>******
+>>>123456
 >>>>success!
 
 
