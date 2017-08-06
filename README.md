@@ -9,8 +9,8 @@ China Agriculture University auto Login in system
 >e.g. python ~/login.py
 >>Student ID:
 >>20163010110
->>>passwd:
->>>123456
->>>>success!
+>>passwd:
+>>123456
+>>success!
 
 
