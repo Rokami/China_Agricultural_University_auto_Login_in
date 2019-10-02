@@ -1,5 +1,5 @@
         
-China Agriculture University auto Login in system
+China Agricultural University auto Login in system
 ----
 中国农业大学自动网关登陆脚本
 ---
